@@ -23,10 +23,10 @@ function Footer() {
           <div className="footer-section">
             <h4>Social</h4>
             <div className="social-links">
-              <a href="#" className="social-link">LinkedIn</a>
-              <a href="#" className="social-link">GitHub</a>
-              <a href="#" className="social-link">Twitter</a>
-              <a href="#" className="social-link">Instagram</a>
+              <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="social-link">LinkedIn</a>
+              <a href="https://github.com/Gabel180201" target="_blank" rel="noreferrer" className="social-link">GitHub</a>
+              <a href="https://twitter.com" target="_blank" rel="noreferrer" className="social-link">Twitter</a>
+              <a href="/" className="social-link">Instagram</a>
             </div>
           </div>
         </div>
