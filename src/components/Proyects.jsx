@@ -8,7 +8,7 @@ function Proyects() {
       description: 'Task list and organization page with reminders, basic CRUD, API, and database integration',
       tech: ['React', 'Node.js', 'Express', 'SQL', 'REST API'],
       image: '✅',
-      link: '#'
+      link: 'https://resilient-seahorse-a0abc6.netlify.app/'
     },
     {
       id: 2,
