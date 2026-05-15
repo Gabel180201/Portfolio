@@ -43,6 +43,14 @@ section {
   width: 100%;
 }
 
+img,
+svg,
+video,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
   width: 10px;
